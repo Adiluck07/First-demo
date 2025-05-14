@@ -1,4 +1,4 @@
 # First-demo
 This is my first Git Repository.
 <br>
-Author - Aditya Raj
+Author - Aditya Raj (lucky)
